@@ -10,7 +10,7 @@ The project.ipynb file begins with a thorough data analysis of the books_corpus.
 Data Preprocessing:
 The data preprocessing section in the notebook details the steps taken to clean and prepare the dataset for modeling. It includes handling missing values, encoding categorical variables, and scaling numerical features. The notebook provides a clear overview of how the data was transformed to make it suitable for machine learning.
 
-It also shows the strategy used to split the data into training and testing sets. Additionally, it highlights the variables selected for the modeling process and the rationale behind these choices.
+It also shows the strategy used to split the data into training and testing sets. Additionally, it highlights the variables selected for the modeling process.
 
 Lazy Prediction:
 Lazy prediction was used to quickly evaluate the performance of multiple regression models.
