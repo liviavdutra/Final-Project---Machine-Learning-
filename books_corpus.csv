@@ -1,0 +1,602 @@
+author,title,genre,num_pages,year,publisher,language,version,price
+Jane Austen,Pride and Prejudice,Romance,4482,2003,Penguin Classics,English,Paperback,2.49
+Jane Austen,Pride and Prejudice,Romance,4482,2003,Penguin Classics,English,Kindle,0.75
+Jane Austen,Sense and Sensibility,Romance,368,2003,Penguin Classics,English,Paperback,7.35
+Jane Austen,Sense and Sensibility,Romance,368,2003,Penguin Classics,English,Kindle,0.75
+Jane Austen,Emma,Romance,512,2015,Penguin Classics,English,Paperback,10.99
+Jane Austen,Emma,Romance,512,2015,Penguin Classics,English,Kindle,8.49
+Jane Austen,Persuasion,Romance,304,2003,Penguin Classics,English,Paperback,3.74
+Jane Austen,Persuasion,Romance,304,2003,Penguin Classics,English,Kindle,0.0
+Jane Austen,Mansfield Park,Romance,224,2019,Independently published,English,Paperback,10.49 
+Jane Austen,Mansfield Park,Romance,224,2019,Independently published,English,Kindle,0.0
+Jane Austen,Northanger Abbey,Romance,240,2023,Harper Muse,English,Paperback,13.75
+Jane Austen,Northanger Abbey,Romance,240,2023,Harper Muse,English,Kindle,0.99
+Jane Austen,Lady Susan,Romance,240,1974,Penguin Classics,English,Paperback,7.09
+Jane Austen,Lady Susan,Romance,240,1974,Penguin Classics,English,Kindle,2.12
+Nicholas Sparks,The Notebook,Romance,272,2007,Sphere,Englih,Paperback,7.98
+Nicholas Sparks,The Notebook,Romance,272,2007,Sphere,Englih,Kindle,4.99
+Nicholas Sparks,A Walk to Remember,Romance,240,2013,Sphere,English,Paperback,7.85
+Nicholas Sparks,A Walk to Remember,Romance,240,2013,Sphere,English,Kindle,4.99
+Nicholas Sparks,Dear John,Romance,2010,2006,Sphere,English,Paperback,8.27
+Nicholas Sparks,Dear John,Romance,2010,2006,Sphere,English,Kindle,2.99
+Nicholas Sparks,The Lucky One,Romance,368,2012,Sphere,Englih,Paperback,8.27
+Nicholas Sparks,The Lucky One,Romance,368,2012,Sphere,Englih,Kindle,4.99
+Nicholas Sparks,The Choice,Romance,352,2016,Sphere,English,Paperback,6.99
+Nicholas Sparks,The Choice,Romance,352,2016,Sphere,English,Kindle,4.99
+Nicholas Sparks,The Last Song,Romance,401,2009,Sphere,English,Paperback,8.27
+Nicholas Sparks,The Last Song,Romance,401,2009,Sphere,English,Kindle,2.99
+Nicholas Sparks,Safe Haven,Romance,416,2013,Sphere,English,Paperback,6.29 
+Nicholas Sparks,Safe Haven,Romance,416,2013,Sphere,English,Paperback,3.99
+Julia Quinn,The Duke and I,Historical Romance,433,2015,Avon,Englih,Paperback,8.37
+Julia Quinn,The Duke and I,Historical Romance,433,2015,Avon,Englih,Kindle,8.37
+Julia Quinn,The Viscount Who Loved Me,Historical Romance,384,2022,Piatkus,English,Paperback,6.28
+Julia Quinn,The Viscount Who Loved Me,Historical Romance,384,2022,Piatkus,English,Kindle,2.99
+Julia Quinn,Romancing Mister Bridgerton,Historical Romance,384,2002,Piatkus,English,Kindle,4.99
+Julia Quinn,Romancing Mister Bridgerton,Historical Romance,384,2002,Piatkus,English,Paperback,6.99
+Julia Quinn,To Sir Phillip With Love,Historical Romance,384,2021,Piatkus,Englih,Paperback,6.99
+Julia Quinn,To Sir Phillip With Love,Historical Romance,384,2021,Piatkus,Englih,Kindle,4.99
+Julia Quinn,When He Was Wicked,Historical Romance,448,2017,Avon,English,Paperback,6.99
+Julia Quinn,When He Was Wicked,Historical Romance,448,2017,Avon,Englih,Kindle,2.99
+Julia Quinn,It's in His Kiss,Historical Romance,384,2021,Piatkus,English,Paperback,6.99 
+Julia Quinn,It's in His Kiss,Historical Romance,384,2021,Piatkus,English,Kindle,2.99 
+Julia Quinn,On the Way to the Wedding,Historical Romance,381,2024,Avon,English,Paperback,7.99
+Julia Quinn,On the Way to the Wedding,Historical Romance,381,2017,Avon,English,Kindle,2.99
+Nora Roberts,The Witness,Romantic Suspense,496,2013,Piatkus,English,Paperback,8.27
+Nora Roberts,The Witness,Romantic Suspense,496,2012,Piatkus,English,Kindle,3.99
+Nora Roberts,The Villa,Contemporary Romance,497,2008,Piatkus,English,Paperback,8.27
+Nora Roberts,The Villa,Contemporary Romance,497,2008,Piatkus,English,Kindle,4.99
+Nora Roberts,Vision in White,Contemporary Romance,352,2009,Piatkus,English,Paperback,8.99
+Nora Roberts,Vision in White,Contemporary Romance,352,2009,Piatkus,English,Kindle,0.99
+Nora Roberts,The Obsession,Romantic Suspense,544,2017,Piatkus,English,Paperback,8.01
+Nora Roberts,The Obsession,Romantic Suspense,544,2017,Piatkus,English,Kindle,4.99
+Nora Roberts,Born in Fire,Contemporary Romance,352,2009,Piatkus,Englih,Paperback,8.06
+Nora Roberts,Born in Fire,Contemporary Romance,352,2009,Piatkus,Englih,Kindle,4.99
+Nora Roberts,The Reef,Contemporary Romance,496,2009,Piatkus,English,Paperback,9.19
+Nora Roberts,The Reef,Contemporary Romance,452,2008,Piatkus,English,Kindle,4.99
+Nora Roberts,Irish Thoroughbred,Contemporary Romance,192,2021,Piatkus,English,Paperback,6.79
+Nora Roberts,Irish Thoroughbred,Contemporary Romance,192,2021,Piatkus,English,Kindle,4.99
+Lisa Kleypas,Devil in Winter,Historical Romance,336,2011,Piatkus,English,Paperback,9.19
+Lisa Kleypas,Devil in Winter,Historical Romance,336,2011,Piatkus,English,Kindle,4.99
+Lisa Kleypas,It Happened One Autumn,Historical Romance,385,2010,Piatkus,English,Paperback,8.90
+Lisa Kleypas,It Happened One Autumn,Historical Romance,385,2010,Piatkus,English,Kindle,2.99
+Lisa Kleypas,Mine Till Midnight,Historical Romance,384,2010,Piatkus,Englih,Paperback,9.19
+Lisa Kleypas,Mine Till Midnight,Historical Romance,384,2010,Piatkus,Englih,Kindle,1.99
+Lisa Kleypas,Sugar Daddy,Contemporary Romance,385,2010,Piatkus,English,Paperback,7.55
+Lisa Kleypas,Sugar Daddy,Contemporary Romance,385,2010,Piatkus,English,Kindle,2.99
+Lisa Kleypas,Secrets of a Summer Night,Historical Romance,353,2010,Piatkus,English,Kindle,4.99
+Lisa Kleypas,Secrets of a Summer Night,Historical Romance,353,2010,Piatkus,English,Paperback,9.19
+Lisa Kleypas,Cold-Hearted Rake,Historical Romance,419,2015,Piatkus,English,Paperback,9.19
+Lisa Kleypas,Cold-Hearted Rake,Historical Romance,419,2015,Piatkus,English,Kindle,2.99
+Lisa Kleypas,Scandal in Spring,Contemporary Romance,319,2011,Piatkus,English,Paperback,4.99
+Lisa Kleypas,Scandal in Spring,Contemporary Romance,319,2011,Piatkus,English,Kindle,4.99
+Lisa Gardner,The Neighbor,Romantic Suspense,434,2012,Headline,English,Paperback,9.19
+Lisa Gardner,The Neighbor,Romantic Suspense,434,2012,Headline,English,Kindle,4.99
+Lisa Gardner,Alone,Romantic Suspense,365,2012,Headline,English,Paperback,9.19
+Lisa Gardner,Alone,Romantic Suspense,365,2012,Headline,English,Kindle,4.99
+Lisa Gardner,The Perfect Husband,Romantic Suspense,418,2012,Headline,English,Paperback,6.24
+Lisa Gardner,The Perfect Husband,Romantic Suspense,418,2012,Headline,English,Kindle,2.99
+Lisa Gardner,Hide,Romantic Suspense,418,2012,Headline,English,Paperback,9.19
+Lisa Gardner,Hide,Romantic Suspense,418,2012,Headline,English,Kindle,4.99
+Lisa Gardner,Love You More,Romantic Suspense,358,2012,Headline,English,Paperback,4.99
+Lisa Gardner,Love You More,Romantic Suspense,358,2012,Headline,English,Kindle,4.99
+Lisa Gardner,Gone,Romantic Suspense,418,2012,Headline,English,Paperback,5.99
+Lisa Gardner,Gone,Romantic Suspense,418,2012,Headline,English,Kindle,4.99
+Lisa Gardner,Say Goodbye,Romantic Suspense,466,2012,Headline,English,Paperback,9.19
+Lisa Gardner,Say Goodbye,Romantic Suspense,466,2012,Headline,English,Kindle,4.99
+Jennifer Crusie,Bet Me,Contemporary Romance,432,2007,St. Martin's Press,English,Paperback,8.33
+Jennifer Crusie,Bet Me,Contemporary Romance,432,2007,St. Martin's Press,English,Kindle,5.99
+Jennifer Crusie,Welcome to Temptation,Contemporary Romance,420,2010,St. Martin's Press,English,Paperback,9.03 
+Jennifer Crusie,Welcome to Temptation,Contemporary Romance,420,2010,St. Martin's Press,English,Kindle,7.94 
+Jennifer Crusie,Faking It,Contemporary Romance,432,2011,St. Martin's Press,English,Paperback,12.25
+Jennifer Crusie,Faking It,Contemporary Romance,432,2011,St. Martin's Press,English,Kindle,7.94
+Jennifer Crusie,Anyone but You,Contemporary Romance,156,2010,Mills & Boon,English,Paperback,20.93
+Jennifer Crusie,Anyone but You,Contemporary Romance,156,2010,Mills & Boon,English,Kindke,2.99
+Jennifer Crusie,The Cinderella Deal,Contemporary Romance,226,2010,Bantam,English,Paperback,13.36
+Jennifer Crusie,The Cinderella Deal,Contemporary Romance,226,2010,Bantam,English,Kindle,4.49
+Jennifer Crusie,Crazy for You,Contemporary Romance,338,2010,St. Martin's Press,English,Paperback,16.99
+Jennifer Crusie,Crazy for You,Contemporary Romance,338,2010,St. Martin's Press,English,Kindle,7.94
+Jennifer Crusie,What the lady wants,Contemporary Romance,332,2014,Mills & Boon,English,Paperback,27.78
+Jennifer Crusie,What the lady wants,Contemporary Romance,332,2014,Mills & Boon,English,Kindle,3.99 
+Colleen Hoover,It Ends with Us,Contemporary Romance,384,2016,Simon & Schuster UK,English,Paperback,5.00
+Colleen Hoover,It Ends with Us,Contemporary Romance,384,2016,Simon & Schuster UK,English,Kindle,4.99
+Colleen Hoover,November 9,Contemporary Romance,352,2015,Simon & Schuster UK,English,Paperback,4.50
+Colleen Hoover,November 9,Contemporary Romance,352,2015,Simon & Schuster UK,English,Kindle,5.99
+Colleen Hoover,Ugly Love,Contemporary Romance,352,2014,Simon & Schuster UK,English,Paperback,5.99
+Colleen Hoover,Ugly Love,Contemporary Romance,352,2014,Simon & Schuster UK,English,Kindle,5.99
+Colleen Hoover,Confess,Contemporary Romance,320,2015,Simon & Schuster UK,English,Paperback,8.99
+Colleen Hoover,Confess,Contemporary Romance,320,2015,Simon & Schuster UK,English,Kindle,5.99
+Colleen Hoover,Slammed,Contemporary Romance,384,2013,Simon & Schuster UK,English,Paperback,5.00
+Colleen Hoover,Slammed,Contemporary Romance,384,2013,Simon & Schuster UK,English,Kindle,5.99
+Colleen Hoover,Maybe Someday,Contemporary Romance,377,2014,Simon & Schuster UK,English,Paperback,8.27
+Colleen Hoover,Maybe Someday,Contemporary Romance,377,2014,Simon & Schuster UK,English,Kindle,5.99
+Colleen Hoover,Hopeless,Contemporary Romance,416,2013,Simon & Schuster UK,English,Paperback,5.00
+Colleen Hoover,Hopeless,Contemporary Romance,416,2013,Simon & Schuster UK,English,Kindle,5.99
+Sarah Dessen,The Truth About Forever,Contemporary Romance,398,2008,Penguin,English,Paperback,8.27
+Sarah Dessen,The Truth About Forever,Contemporary Romance,398,2008,Penguin,English,Kindle,4.99
+Sarah Dessen,Just Listen,Contemporary Romance,396,2007,Penguin,English,Paperback,8.27
+Sarah Dessen,Just Listen,Contemporary Romance,396,2007,Penguin,English,Kindle,3.99
+Sarah Dessen,This Lullaby,Contemporary Romance,384,2011,Hodder Children's Books,Englihs,Paperback,12.59
+Sarah Dessen,This Lullaby,Contemporary Romance,384,2011,Hodder Children's Books,Englihs,Kindle,4.99
+Sarah Dessen,Along for the Ride,Contemporary Romance,448,2010,Penguin,English,Paperback,8.27
+Sarah Dessen,Along for the Ride,Contemporary Romance,448,2010,Penguin,English,Kindle,4.99
+Sarah Dessen,Dreamland,Contemporary Romance,250,2004,Speak,English,Paperback,12.01
+Sarah Dessen,Keeping the Moon,Contemporary Romance,228,2004,Speak,English,Paperback,9.12
+Sarah Dessen,Someone Like You,Contemporary Romance,281,2004,Speak,English,Paperback,20.41
+Debbie Macomber,Cottage by the Sea,Contemporary Romance,393,2018,Cornerstone Digital,English,Paperback,7.35
+Debbie Macomber,Cottage by the Sea,Contemporary Romance,393,2018,Cornerstone Digital,English,Kindle,0.99
+Debbie Macomber,A Walk Along the Beach,Contemporary Romance,371,2020,Cornerstone Digital,English,Paperback,7.35
+Debbie Macomber,A Walk Along the Beach,Contemporary Romance,371,2020,Cornerstone Digital,English,Kindle,2.99
+Debbie Macomber,204 Rosewood Lane,Contemporary Romance,367,2009,MIRA,English,Paperback,10.03
+Debbie Macomber,204 Rosewood Lane,Contemporary Romance,367,2009,MIRA,English,Kindle,2.99
+Debbie Macomber,311 Pelican Court,Contemporary Romance,373,2009,MIRA,English,Paperback,8.99
+Debbie Macomber,311 Pelican Court,Contemporary Romance,373,2009,MIRA,English,Kindle,3.49
+Debbie Macomber,44 Cranberry Point,Contemporary Romance,382,2010,MIRA,English,Paperback,8.90
+Debbie Macomber,44 Cranberry Point,Contemporary Romance,382,2010,MIRA,English,Kindle,2.99
+Debbie Macomber,50 Harbor Street,Contemporary Romance,384,2010,MIRA,English,Paperback,8.27
+Debbie Macomber,50 Harbor Street,Contemporary Romance,384,2010,MIRA,English,Kindle,3.49
+Debbie Macomber,6 Rainier Drive,Contemporary Romance,384,2010,MIRA,English,Kindle,3.49
+Agatha Christie,The Murder of Roger Ackroyd,Mystery,307,2023,True Sign Publishing House,English,Paperback,7.92
+Agatha Christie,The Murder of Roger Ackroyd,Mystery,307,2023,True Sign Publishing House,English,Kindle,0.81
+Agatha Christie,Murder on the Orient Express,Mystery,288,2010,HarperCollins,English,Paperback,6.99
+Agatha Christie,Murder on the Orient Express,Mystery,288,2010,HarperCollins,English,Kindle,2.99
+Agatha Christie,And Then There Were None,Mystery,264,2010,HarperCollins,English,Paperback,13.75
+Agatha Christie,And Then There Were None,Mystery,264,2010,HarperCollins,English,Kindle,6.49
+Agatha Christie,The ABC Murders,Mystery,289,2010,HarperCollins,English,Paperback,9.15
+Agatha Christie,The ABC Murders,Mystery,289,2010,HarperCollins,English,Kindle,2.99
+Agatha Christie,Death on the Nile,Mystery,288,2010,HarperCollins,English,Paperback,7.91
+Agatha Christie,Death on the Nile,Mystery,288,2010,HarperCollins,English,Kindle,2.99
+Agatha Christie,The Body in the Library,Mystery,227,2010,HarperCollins,English,Paperback,7.99
+Agatha Christie,The Body in the Library,Mystery,227,2010,HarperCollins,English,Kindle,2.99
+Agatha Christie,A Murder Is Announced,Mystery,321,2010,HarperCollins,English,Paperback,7.89
+Agatha Christie,A Murder Is Announced,Mystery,321,2010,HarperCollins,English,Kindle,2.99
+Malcolm Gladwell,The Tipping Point,Non-Fiction,287,2022,Abacus,English,Paperback,10.99
+Malcolm Gladwell,The Tipping Point,Non-Fiction,287,2022,Abacus,English,Kindle,5.99
+Malcolm Gladwell,Blink: The Power of Thinking Without Thinking,Non-Fiction,304,2006,Penguin,English,Paperback,8.99 
+Malcolm Gladwell,Blink: The Power of Thinking Without Thinking,Non-Fiction,304,2006,Penguin,English,Kindle,4.99
+Malcolm Gladwell,Outliers: The Story of Success,Non-Fiction,288,2008,Penguin,English,Paperback,9.85
+Malcolm Gladwell,Outliers: The Story of Success,Non-Fiction,288,2008,Penguin,English,Kindle,5.49 
+Malcolm Gladwell,What the Dog Saw and Other Adventures,Non-Fiction,432,2010,Penguin,English,Paperback,7.69
+Malcolm Gladwell,What the Dog Saw and Other Adventures,Non-Fiction,432,2010,Penguin,English,Kindle,6.99
+Malcolm Gladwell,David and Goliath: Underdogs Misfits and the Art of Battling Giants,Non-Fiction,320,2014,Penguin,English,Paperback,9.85
+Malcolm Gladwell,David and Goliath: Underdogs Misfits and the Art of Battling Giants,Non-Fiction,320,2014,Penguin,English,Kindle,5.49
+Malcolm Gladwell,Talking to Strangers: What We Should Know About the People We Don't Know,Non-Fiction,379,2019,Penguin,English,Paperback,7.69
+Malcolm Gladwell,Talking to Strangers: What We Should Know About the People We Don't Know,Non-Fiction,379,2019,Penguin,English,Kindle,6.99
+Malcolm Gladwell,The Bomber Mafia: A Dream a Temptation and the Longest Night of the Second World War,Non-Fiction,257,2021,Penguin,English,Paperback,10.11
+Malcolm Gladwell,The Bomber Mafia: A Dream a Temptation and the Longest Night of the Second World War,Non-Fiction,257,2021,Penguin,English,Kindle,7.99
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Fantasy,352,2014,Bloomsbury Children's Books,English,Paperback,4.00
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,Fantasy,352,2014,Bloomsbury Children's Books,English,Kindle,4.99
+J.K. Rowling,Harry Potter and the Chamber of Secrets,Fantasy,384,2014,Bloomsbury Children's Books,English,Paperback,4.00
+J.K. Rowling,Harry Potter and the Chamber of Secrets,Fantasy,384,2014,Bloomsbury Children's Books,English,Kindle,4.99
+J.K. Rowling,Harry Potter and the Prisoner of Azkaban,Fantasy,480,2014,Bloomsbury Children's Books,English,Paperback,4.00
+J.K. Rowling,Harry Potter and the Prisoner of Azkaban,Fantasy,480,2014,Bloomsbury Children's Books,English,Kindle,4.99
+J.K. Rowling,Harry Potter and the Goblet of Fire,Fantasy,640,2014,Bloomsbury Children's Books,English,Paperback,4.00
+J.K. Rowling,Harry Potter and the Goblet of Fire,Fantasy,640,2014,Bloomsbury Children's Books,English,Kindle,4.99
+J.K. Rowling,Harry Potter and the Order of the Phoenix,Fantasy,816,2014,Bloomsbury Children's Books,English,Paperback,4.00
+J.K. Rowling,Harry Potter and the Order of the Phoenix,Fantasy,816,2014,Bloomsbury Children's Books,English,Kindle,4.99
+J.K. Rowling,Harry Potter and the Half-Blood Prince,Fantasy,652,2014,Bloomsbury Children's Books,English,Paperback,6.29
+J.K. Rowling,Harry Potter and the Half-Blood Prince,Fantasy,652,2014,Bloomsbury Children's Books,English,Kindle,4.99
+J.K. Rowling,Harry Potter and the Deathly Hallows,Fantasy,640,2014,Bloomsbury Children's Books,English,Paperback,4.00
+J.K. Rowling,Harry Potter and the Deathly Hallows,Fantasy,640,2014,Bloomsbury Children's Books,English,Kindle,4.99
+Arthur Conan Doyle,A Study in Scarlet,Mystery,224,2001,Wordsworth Editions,English,Paperback,3.99
+Arthur Conan Doyle,A Study in Scarlet,Mystery,224,2001,Wordsworth Editions,English,Kindle,1.49
+Arthur Conan Doyle,The Sign of Four,Mystery,149,2018,CDED,English,Paperback,6.50
+Arthur Conan Doyle,The Sign of Four,Mystery,149,2018,CDED,English,Kindle,0.0
+Arthur Conan Doyle,The Adventures of Sherlock Holmes,Mystery,304,2016,William Collins,English,Paperback,6.50
+Arthur Conan Doyle,The Adventures of Sherlock Holmes,Mystery,304,2016,William Collins,English,Kindle,1.18
+Arthur Conan Doyle,The Memoirs of Sherlock Holmes,Mystery,249,2016,Books on Demand,English,Paperback,9.35
+Arthur Conan Doyle,The Memoirs of Sherlock Holmes,Mystery,249,2016,Books on Demand,English,Kindle,0.49
+Arthur Conan Doyle,The Hound of the Baskervilles: 100th Anniversary Collection,Mystery,186,2021,SeaWolf Press,English,Paperback,12.23
+Arthur Conan Doyle,The Hound of the Baskervilles: 100th Anniversary Collection,Mystery,186,2021,SeaWolf Press,English,Kindle,2.54
+Arthur Conan Doyle,The Return of Sherlock Holmes,Mystery,400,2011,Penguin,English,Paperback,8.27
+Arthur Conan Doyle,The Return of Sherlock Holmes,Mystery,400,2011,Penguin,English,Kindle,0.49
+Arthur Conan Doyle,The Valley of Fear,Mystery,218,2014,BookRix,English,Paperback,5.19
+Arthur Conan Doyle,The Valley of Fear,Mystery,218,2014,BookRix,English,Kindle,1.99
+Michelle Obama,Becoming,Memoir,440,2018,Penguin,English,Paperback,11.95
+Michelle Obama,Becoming,Memoir,440,2018,Penguin,English,Kindle,7.99
+Michelle Obama,American Grown: The Story of the White House Kitchen Garden and Gardens Across America,Non-Fiction,272,2012,Crown Publishing,English,Paperback,19.95
+Michelle Obama,We Are the Change We Seek: The Speeches of Barack Obama,Non-Fiction,363,2017,Bloomsbury,English,Paperback,17.99
+Michelle Obama,We Are the Change We Seek: The Speeches of Barack Obama,Non-Fiction,363,2017,Bloomsbury,English,Kindle,10.39
+Michelle Obama,Michelle Obama: A Life,Biography,432,2016,Vintage,English,Paperback,10.79
+Michelle Obama,Michelle Obama: First Lady of Hope,Biography,240,2008,Lyons Press,English,Paperback,18.95
+Michelle Obama,Michelle Obama: First Lady of Hope,Biography,240,2008,yons Press,English,Kindle,7.81
+Michelle Obama,Go High: The Unstoppable Presence and Poise of Michelle Obama,Biography,130,2019,Castle Point Books,English,Paperback,19.96
+Michelle Obama,Go High: The Unstoppable Presence and Poise of Michelle Obama,Biography,130,2019,Castle Point Books,English,Kindle,6.52
+George Orwell,1984,Dystopian,328,2021,Polygon (An Imprint of Birlinn Limited),English,Paperback,6.75
+George Orwell,1984,Dystopian,328,2021,Polygon (An Imprint of Birlinn Limited),English,Kindle,1.49
+George Orwell,Animal Farm,Satire,256,2021,Wordsworth Editions,English,Paperback,3.99
+George Orwell,Animal Farm,Satire,256,2021,Wordsworth Editions,English,Kindle,0.99
+George Orwell,Burmese Days,Fiction,231,2021,Classica Libris,English,Paperback,7.84
+George Orwell,Burmese Days,Fiction,231,2021,Classica Libris,English,Kindle,0.49
+George Orwell,Homage to Catalonia,Non-Fiction,196,2020,Sanage Publishing House,English,Paperback,7.85
+George Orwell,Homage to Catalonia,Non-Fiction,196,2020,Sanage Publishing House,English,Kindle,0.30
+George Orwell,Keep the Aspidistra Flying,Fiction,304,2000,Penguin,English,Paperback,7.85
+George Orwell,Keep the Aspidistra Flying,Fiction,304,2000,Penguin,English,Kindle,0.49
+George Orwell,Coming Up for Air,Fiction,272,2001,Penguin,English,Paperback,7.65
+George Orwell,Coming Up for Air,Fiction,272,2023,E-BOOKARAMA,English,Kindle,0.49
+George Orwell,Down and Out in Paris and London,Non-Fiction,256,2001,Penguin,English,Paperback,7.99
+George Orwell,Down and Out in Paris and London,Non-Fiction,205,2018,Grapevine India,English,Paperback,0.41
+Louise Penny,Still Life,Mystery,385,2011,Hodder & Stoughton,English,Paperback,8.27
+Louise Penny,Still Life,Mystery,385,2011,Hodder & Stoughton,English,Kindle,4.99
+Louise Penny,A Fatal Grace,Mystery,412,2011,Hodder & Stoughton,English,Paperback,8.27
+Louise Penny,A Fatal Grace,Mystery,412,2011,Hodder & Stoughton,English,Kindle,4.99 
+Louise Penny,The Cruelest Month,Mystery,458,2011,Hodder & Stoughton,English,Paperback,6.99
+Louise Penny,The Cruelest Month,Mystery,458,2011,Hodder & Stoughton,English,Kindle,4.99
+Louise Penny,A Rule Against Murder,Mystery,428,2011,Hodder & Stoughton,English,Paperback,8.09
+Louise Penny,A Rule Against Murder,Mystery,428,2011,Hodder & Stoughton,English,Kindle,4.99
+Louise Penny,The Brutal Telling,Mystery,511,2011,Hodder & Stoughton,English,Paperback,6.99
+Louise Penny,The Brutal Telling,Mystery,511,2011,Hodder & Stoughton,English,Kindle,4.99
+Louise Penny,Bury Your Dead,Mystery,380,2010,Hodder & Stoughton,English,Paperback,8.27
+Louise Penny,Bury Your Dead,Mystery,380,2010,Hodder & Stoughton,English,Kindle,4.99
+Louise Penny,A Trick of the Light,Mystery,406,2012,Hodder & Stoughton,English,Paperback,8.27
+Louise Penny,A Trick of the Light,Mystery,406,2012,Hodder & Stoughton,English,Kindle,4.99
+Yuval Noah Harari,Sapiens: A Brief History of Humankind,Non-Fiction,544,2019,Vintage,English,Paperback,11.95
+Yuval Noah Harari,Sapiens: A Brief History of Humankind,Non-Fiction,544,2019,Vintage,English,Kindle,5.99
+Yuval Noah Harari,Homo Deus: A Brief History of Tomorrow,Non-Fiction,528,2017,Vintage,English,Paperback,11.95
+Yuval Noah Harari,Homo Deus: A Brief History of Tomorrow,Non-Fiction,528,2017,Vintage,English,Kindle,5.99
+Yuval Noah Harari,21 Lessons for the 21st Century,Non-Fiction,432,2019,Vintage,English,Paperback,11.95
+Yuval Noah Harari,21 Lessons for the 21st Century,Non-Fiction,432,2019,Vintage,English,Kindle,5.99
+Toni Morrison,Beloved,Fiction,352,2007,Vintage,English,Paperback,8.54
+Toni Morrison,Beloved,Fiction,352,2014,Vintage,English,Kindle,5.99
+Toni Morrison,Song of Solomon,Fiction,448,1998,Vintage,English,Paperback,9.19
+Toni Morrison,Song of Solomon,Fiction,414,2014,Vintage,English,Kinlde,3.99
+Toni Morrison,The Bluest Eye,Fiction,172,1999,Vintage,English,Paperback,5.49
+Toni Morrison,The Bluest Eye,Fiction,183,2014,Vintage,English,Paperback,3.99
+Toni Morrison,Sula,Fiction,208,1998,Vintage,English,Paperback,9.05
+Toni Morrison,Sula,Fiction,193,2014,Vintage,English,Kindle,4.99
+Toni Morrison,Jazz,Fiction,256,2001,Vintage,English,Paperback,8.99
+Toni Morrison,Jazz,Fiction,218,2014,Vintage,English,Kindle,4.99
+Toni Morrison,Paradise,Fiction,336,1999,Vintage,English,Paperback,9.19
+Toni Morrison,Paradise,Fiction,336,2010,Vintage,English,kindle,4.99
+Toni Morrison,Home,Fiction,176,2013,Vintage,English,Paperback,7.65
+Toni Morrison,Home,Fiction,162,2013,Vintage,English,Kindle,5.99
+Noam Chomsky,Language and Mind,Linguistics,210,2006,Cambridge University Press,English,Paperback,31.99
+Noam Chomsky,Language and Mind,Linguistics,210,2006,Cambridge University Press,English,Kindle,30.39
+Noam Chomsky,Manufacturing Consent: The Political Economy of the Mass Media,Political Science,432,1995,Vintage,English,Kindle,7.78
+Noam Chomsky,Manufacturing Consent: The Political Economy of the Mass Media,Political Science,432,2010,Vintage,English,Kindle,7.99
+Noam Chomsky,Syntactic Structures,Linguistics,120,2015,Martino Fine Books,English,Paperback,9.48
+Noam Chomsky,Understanding Power: The Indispensable Chomsky,Political Science,432,2003,Vintage,English,Paperback,10.58
+Noam Chomsky,Understanding Power: The Indispensable Chomsky,Political Science,421,2018,Vintage,English,Kindle,9.99
+Noam Chomsky,Aspects of the Theory of Syntax,Linguistics,256,1969,MIT Press,English,Paperback,36.36
+Noam Chomsky,Hegemony or Survival: America's Quest for Global Dominance,Political Science,320,2004,Penguin,English,Paperback,9.85
+Noam Chomsky,Hegemony or Survival: America's Quest for Global Dominance,Political Science,324,2004,Penguin,English,Kindle,5.99
+Noam Chomsky,Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power,Political Science,192,2017,Seven Stories Press,English,Paperback,7.11
+Noam Chomsky,Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power,Political Science,192,2017,Seven Stories Press,English,Kindle,11.99
+Judith Butler,Gender Trouble: Feminism and the Subversion of Identity,Gender Studies,272,2006,Routledge,English,Paperback,18.24
+Judith Butler,Bodies That Matter: On the Discursive Limits of "Sex",Gender Studies,255,2011,Routledge,English,Paperback,18.24
+Judith Butler,Gender Trouble: Feminism and the Subversion of Identity,Gender Studies,272,2011,Routledge,English,Paperback,12.39
+Judith Butler,Bodies That Matter: On the Discursive Limits of "Sex",Gender Studies,255,2011,Routledge,English,Kindle,12.39
+Judith Butler,Precarious Life: The Powers of Mourning and Violence,Gender Studies,192,2020,Verso,English,Paperback,7.99
+Judith Butler,Precarious Life: The Powers of Mourning and Violence,Gender Studies,165,2020,Verso,English,Kindle,7.50
+Judith Butler,Undoing Gender,Gender Studies,288,2004,Routledge,English,Paperback,34.99
+Judith Butler,Undoing Gender,Gender Studies,288,2004,Routledge,English,Kindle,31.82
+Judith Butler,The Psychic Life of Power: Theories in Subjection,Gender Studies,228,1997,Stanford University Press,English,Paperback,22.85
+Judith Butler,Frames of War: When Is Life Grievable?,Gender Studies,224,2016,Verso,English,Paperback,7.99
+Judith Butler,Frames of War: When Is Life Grievable?,Gender Studies,209,2016,Verso,English,Kindle,7.50
+Judith Butler,The Force of Nonviolence: An Ethico-Political Bind,Gender Studies,224,2021,Verso,English,Paperback,7.99
+Judith Butler,The Force of Nonviolence: An Ethico-Political Bind,Gender Studies,225,2020,Verso,English,Kindle,7.50
+Stephen Hawking,A Brief History of Time,Physics,272,1989,Bantam Books,English,Paperback,12.48
+Stephen Hawking,A Brief History of Time,Physics,258,2009,Transworld,English,Kindle,4.99
+Stephen Hawking,The Universe in a Nutshell,Physics,224,2001,Bantam Books,English,Paperback,42.95
+Stephen Hawking,Black Holes and Baby Universes and Other Essays,Physics,173,1994,Bantam Books,English,Paperback,9.05
+Stephen Hawking,The Grand Design,Physics,256,2011,Bantam Books,English,Paperback,9.09
+Stephen Hawking,The Grand Design,Physics,210,2010,Transworld,English,Kindle,5.49
+Stephen Hawking,The Theory of Everything: The Origin and Fate of the Universe,Physics,140,2008,Jaico Publishing House,English,Paperback,11.99
+Stephen Hawking,The Theory of Everything: The Origin and Fate of the Universe,Physics,123,2006,PHOENIX BOOKS,English,Kindle,5.49
+Stephen Hawking,My Brief History,Biography,144,2018,Bantam Books,English,Paperback,7.65
+Stephen Hawking,My Brief History,Biography,144,2018,Bantam Books,English,Kindle,7.99
+Stephen Hawking,On the Shoulders of Giants: The Great Works of Physics and Astronomy,Physics,1280,2003,Penguin,English,Paperback,17.27
+Cornel West,Race Matters,African American Studies,128,2018,Beacon Press,English,Paperback,8.77
+Cornel West,Race Matters,African American Studies,138,2017,Beacon Press,English,Kindle,9.82
+Cornel West,Democracy Matters: Winning the Fight Against Imperialism,African American Studies,240,2005,Penguin Books,English,Paperback,11.79
+Cornel West,Democracy Matters: Winning the Fight Against Imperialism,African American Studies,240,2005,Penguin Books,English,Kindle,8.49
+Cornel West,Prophesy Deliverance! An Afro-American Revolutionary Christianity,African American Studies,304,2022,Westminster John Knox Press,English,Paperback,27.00
+Cornel West,Prophesy Deliverance! An Afro-American Revolutionary Christianity,African American Studies,304,2022,Westminster John Knox Press,English,Kindle,21.90
+Cornel West,Black Prophetic Fire,African American Studies,264,2015,Beacon Press,English,Paperback,12.85
+Cornel West,Black Prophetic Fire,African American Studies,265,2014,Beacon Press,English,Kindle,12.21
+Cornel West,The Ethical Dimensions of Marxist Thought,Philosophy,183,2009,Aakar Books,English,Paperback,11.50
+Cornel West,The Ethical Dimensions of Marxist Thought,Philosophy,183,1991,Monthly Review Press,English,Paperback,11.69
+Cornel West,The Future of the Race,African American Studies,224,1997,Vintage,English,Paperback,10.99
+Cornel West,The Future of the Race,African American Studies,226,2011,Vintage,English,Kindle,5.49
+Edward Said,Orientalism,Cultural Studies,396,2003,Penguin,English,Paperback,10.11
+Edward Said,Orientalism,Cultural Studies,434,2014,Vintage,English,Kindle,9.49
+Edward Said,Culture and Imperialism,Cultural Studies,528,1994,Vintage,English,Paperback,11.95
+Edward Said,Culture and Imperialism,Cultural Studies,323,1994,Vintage,English,Paperback,7.99
+Edward Said,The World the Text and the Critic,Literary Criticism,336,1983,Harvard University Press,English,Paperback,28.49
+Edward Said,The World the Text and the Critic,Literary Criticism,307,2018,Harvard University Press,English,Paperback,2.21
+Edward Said,Covering Islam: How the Media and the Experts Determine How We See the Rest of the World,Media Studies,204,1997,Vintage,English,Paperback,10.33
+Edward Said,Covering Islam: How the Media and the Experts Determine How We See the Rest of the World,Media Studies,272,2008,Vintage,English,Kindle,6.99
+Edward Said,Representations of the Intellectual,Cultural Studies,144,1996,Vintage,English,Paperback,14.24
+Edward Said,Humanism and Democratic Criticism,Literary Criticism,240,2017,Pluto Press,English,Paperback,15.99
+Edward Said,Humanism and Democratic Criticism,Literary Criticism,240,2017,Pluto Press,English,Kindle,15.19
+Edward Said,On Late Style: Music and Literature Against the Grain,Literary Criticism,208,2007,Bloomsbury,English,Paperback,10.99
+Edward Said,On Late Style: Music and Literature Against the Grain,Literary Criticism,202,2014,Bloomsbury,English,Kindle,8.03
+Stan Lee,Spider-Man: The Amazing Spider-Man,Comics,272,2021,Marvel US,English,Paperback,12.55
+Stan Lee,Spider-Man: The Amazing Spider-Man,Comics,254,2021,Marvel US,English,Kindle,12.89
+Stan Lee,X-Men,Comics,400,2023,Marvel US,English,Paperback,18.79
+Stan Lee,Fantastic Four Epic Collection: The Name Is Doom,Comics,504,2020,Marvel,English,Kindle,16.9
+Stan Lee,The Avengers,Comics,400,2023,Penguin Classics,English,Paperback,18.79
+Frank Miller,Batman: The Dark Knight Returns,Comics,224,2016,DC Comics,English,Paperback,12.85
+Frank Miller,Batman: The Dark Knight Returns,Comics,224,2016,DC Comics,English,Kindle,11.85
+Frank Miller,Sin City: The Hard Goodbye,Crime Noir,2016,2021,Dark Horse Comics,English,Paperback,19.89
+Frank Miller,Sin City: The Hard Goodbye,Crime Noir,2016,2021,Dark Horse Comics,English,Kindle,10.99
+Frank Miller,Daredevil: Born Again,Comics,188,2022,Marvel Comics,English,Paperback,11.55
+Frank Miller,Daredevil: Born Again,Comics,188,2022,Marvel Comics,English,Kindle,10.97
+Frank Miller,300,Historical Fiction,88,1999,Dark Horse Comics,English,Paperback,19.95
+Frank Miller,300,Historical Fiction,88,2008,Dark Horse Comics,English,Kindle,10.99
+Frank Miller,Sin City: A Dame to Kill For,Crime Noir,216,2021,Dark Horse Comics,English,Paperback,19.89
+Frank Miller,Sin City: A Dame to Kill For,Crime Noir,216,2021,Dark Horse Comics,English,Kindle,10.99
+Frank Miller,Sin City: The Big Fat Kill,Crime Noir,184,2022,Dark Horse Comics,English,Paperback,19.89
+Frank Miller,Sin City: The Big Fat Kill,Crime Noir,184,2022,Dark Horse Comics,English,Kindle,10.99
+Frank Miller,Batman: Year One,Comics,144,2007,DC Comics,English,Paperback,9.51
+Frank Miller,Batman: Year One,Comics,144,2007,DC Comics,English,Kindle,8.99
+Alan Moore,Watchmen,Comics,414,2019,DC Comics,English,Paperback,21.58
+Alan Moore,Watchmen,Comics,449,2019,DC Comics,English,Kindle,12.67
+Alan Moore,V for Vendetta,Dystopian,288,2020,Vertigo,English,Paperback,9.99
+Alan Moore,V for Vendetta,Dystopian,288,2020,DC Comics,English,Kindle,12.67
+Alan Moore,Swamp Thing: The Saga of the Swamp Thing,Horror,208,2012,DC Comics,English,Paperback,9.30
+Alan Moore,Swamp Thing: The Saga of the Swamp Thing,Horror,203,2012,Vertigo,English,Kindle,11.85
+Alan Moore,From Hell,Historical Fiction,576,2006,Knockabout Comic,English,Paperback,21.05
+Alan Moore,From Hell,Historical Fiction,576,2004,Knockabout Comic,English,Kindle,6.75
+Alan Moore,The League of Extraordinary Gentlemen Vol. 1,Steampunk,228,2011,DC Comics,English,Paperback,9.36
+Alan Moore,The League of Extraordinary Gentlemen Vol. 1,Steampunk,191,2013,Vertigo,English,Kindle,9.01
+Alan Moore,Promethea Vol. 1,Fantasy,160,2006,DC Comics,English,Paperback,10.89
+Alan Moore,Promethea Vol. 1,Fantasy,145,2001,DC Comics,English,Kindle,9.40
+Alan Moore,Batman: The Killing Joke,Comics,48,1988,Titan Books Ltd,English,Paperback,24.75
+Alan Moore,Batman: The Killing Joke,Comics,66,2014,DC Comics,English,Kindle,3.11
+Chris Claremont,X-Men: The Dark Phoenix Saga,Comics,200,2023,Marvel Comics,English,Paperback,21.89
+Chris Claremont,X-Men: The Dark Phoenix Saga,Comics,355,2012,Marvel Comics,English,Kindle,16.09
+Chris Claremont,X-Men: Days of Future Past,Comics,184,2021,Marvel Comics,English,Paperback,16.29
+Chris Claremont,X-Men: Days of Future Past,Comics,174,2011,Marvel Comics,English,Kindle,8.89
+Chris Claremont,Wolverine: Old Man Logan,Comics,120,2016,Marvel Comics,English,Paperback,16.20
+Chris Claremont,Wolverine: Old Man Logan,Comics,116,2016,Marvel Comics,English,Kindle,7.19
+Chris Claremont,X-Men: God Loves Man Kills,Comics,95,2020,Marvel Comics,English,Kinde,5.59
+Chris Claremont,The New Mutants: Demon Bear,Comics,144,2018,Marvel Comics,English,Paperback,11.99
+Chris Claremont,The New Mutants: Demon Bear,Comics,139,2018,Marvel Comics,English,Kindle,8.99
+Chris Claremont,Excalibur: The Sword Is Drawn,Comics,496,2022,Marvel Comics,English,Paperback,31.34
+Chris Claremont,Excalibur: The Sword Is Drawn,Comics,473,2017,Marvel Comics,English,Kindle,13.69
+Neil Gaiman,Sandman: Preludes and Nocturnes,Fantasy,328,2022,DC Comics,English,Paperback,15.82
+Neil Gaiman,Sandman: Preludes and Nocturnes,Fantasy,549,2022,Vertigo,English,Kinde,14.99
+Neil Gaiman,Coraline,Fantasy,208,2013,Bloomsbury Children's Books,English,Paperback,5.59
+Neil Gaiman,Coraline,Fantasy,212,2013,Bloomsbury Children's Books,English,Kindle,4.28
+Neil Gaiman,American Gods,Fantasy,752,2005,Headline,English,Paperback,6.43
+Neil Gaiman,American Gods,Fantasy,674,2011,Review,English,Kindle,4.99
+Neil Gaiman,The Graveyard Book,Fantasy,304,2008,Bloomsbury Publishing PLC,English,Paperback,7.35
+Neil Gaiman,The Graveyard Book,Fantasy,293,2018,Bloomsbury Children's Books,English,Kindle,4.28
+Neil Gaiman,Good Omens (with Terry Pratchett),Fantasy,416,2014,Corgi,English,Paperback,6.99
+Neil Gaiman,Good Omens (with Terry Pratchett),Fantasy,389,2011,Transworld Digital,English,Paperback,3.99
+Neil Gaiman,Sandman: A Doll's House,Fantasy,232,2018,Vertigo,English,Paperback,12.85
+Neil Gaiman,Sandman: A Doll's House,Fantasy,224,2018,Vertigo,English,Paperback,11.85
+Neil Gaiman,Neverwhere,Fantasy,400,2005,Headline Review,English,Paperback,6.14
+Neil Gaiman,Neverwhere,Fantasy,467,2010,Review,English,Kindle,4.99
+Marjane Satrapi,Persepolis: The Story of a Childhood,Biography,160,2003,Jonathan Cape,English,Paperback,13.25
+Marjane Satrapi,Persepolis 2: The Story of a Return,Biography,192,2004,Jonathan Cape,English,Paperback,12.14
+Marjane Satrapi,Chicken with Plums,Novel,96,2006,Jonathan Cape,English,Paperback,10.98
+Marjane Satrapi,Embroideries,Memoir,144,2008,Jonathan Cape,English,Paperback,8.99
+Marjane Satrapi,Embroideries,Memoir,148,2023,Jonathan Cape,English,Kindle,2.47
+Marjane Satrapi,Monsters Are Afraid of the Moon,Novel,32,2007,Bloomsbury Publishing PLC,English,Paperback,1.20
+Marjane Satrapi,The Complete Persepolis,Biography,352,2007,Pantheon,English,Paperback,9.99
+Jeff Lemire,Essex County,Novel,512,2009,Top Shelf Productions,English,Paperback,21.35
+Jeff Lemire,Essex County,Novel,512,2009,Top Shelf Productions,English,Kindle,7.83
+Jeff Lemire,Sweet Tooth Vol. 1: Out of the Deep Woods,Post-Apocalyptic,296,2017,Vertigo,English,Paperback,18.09
+Jeff Lemire,Sweet Tooth Vol. 1: Out of the Deep Woods,Post-Apocalyptic,290,2015,Vertigo,English,Kindle,12.99
+Jeff Lemire,Black Hammer Vol. 1: Secret Origins,Comics,152,2017,Dark Horse Comics,English,Paperback,13.35
+Jeff Lemire,Black Hammer Vol. 1: Secret Origins,Comics,152,2017,Dark Horse Comics,English,Kindle,3.28
+Jeff Lemire,The Underwater Welder,Novel,216,2012,Top Shelf Productions,English,Kindle,4.17
+Jeff Lemire,Royal City Vol. 1: Next of Kin,Drama,150,2017,Image Comics,English,Paperback,0.40
+Jeff Lemire,Royal City Vol. 1: Next of Kin,Drama,150,2017,Image Comics,English,Kindle,6.22
+Jeff Lemire,Plutona,Novel,152,2016,Image Comics,English,Paperback,11.75
+Jeff Lemire,Plutona,Novel,148,2016,Image Comics,English,Kindle,10.49
+Jeff Lemire,Gideon Falls Vol. 1: The Black Barn,Horror,160,2018,Image Comics,English,Paperback,7.65
+Jeff Lemire,Gideon Falls Vol. 1: The Black Barn,Horror,160,2018,Image Comics,English,Kindle,6.22
+Alison Bechdel,Fun Home: A Family Tragicomic,Memoir,240,2006,Jonathan Cape,English,Paperback,12.09
+Alison Bechdel,Fun Home: A Family Tragicomic,Memoir,240,2021,Vintage Digital,English,Kindle,5.99
+Alison Bechdel,Are You My Mother?: A Comic Drama,Memoir,304,2013,Mariner Books,English,Paperback,19.95
+Alison Bechdel,Are You My Mother?: A Comic Drama,Memoir,304,2013,Vintage Digital,English,Kindle,9.99
+Alison Bechdel,Dykes to Watch Out For,Comics,416,2008,Mariner Books,English,Paperback,19.26
+Alison Bechdel,The Secret to Superhuman Strength,Memoir,247,2021,Vintage Digital,English,Kindle,9.99
+Alison Bechdel,Post-Dykes to Watch Out For,Comics,144,2000,Firebrand Books U.S.,English,Paperback,24.00
+Alison Bechdel,Hot Throbbing Dykes to Watch Out For,Comics,144,1997,Firebrand Books U.S.,English,Paperback,45.00
+Osamu Tezuka,Astro Boy Vol. 1,Science Fiction,668,2015,Dark Horse Manga,English,Paperback,20.49
+Osamu Tezuka,Buddha Vol. 1: Kapilavastu,Historical Fiction,400,2006,Vertical,English,Paperback,6.20
+Osamu Tezuka,Buddha Vol. 1: Kapilavastu,Historical Fiction,400,2017,Vertical,English,Kindle,5.60
+Osamu Tezuka,Black Jack Vol. 1,Drama,300,2008,Vertical,English,Paperback,12.75
+Osamu Tezuka,Black Jack Vol. 1,Drama,288,2014,Vertical,English,Kindle,5.65
+Osamu Tezuka,Ode to Kirihito,Drama,830,2007,Vertical,English,Paperback,29.70
+Osamu Tezuka,Ode to Kirihito,Drama,830,2015,Vertical,English,Kindle,8.24
+Osamu Tezuka,Ayako,Historical Fiction,704,2013,Vertical,English,Paperback,20.49
+Osamu Tezuka,Ayako,Historical Fiction,704,2017,Vertical,English,Kindle,9.02
+Osamu Tezuka,Message to Adolf Vol. 1,Historical Fiction,592,2012,Vertical,English,Paperback,20.16
+Osamu Tezuka,Message to Adolf Vol. 1,Historical Fiction,592,2012,Vertical,English,Kindle,8.00
+Malala Yousafzai,I Am Malala,Memoir,272,2013,Orion Children's Books,English,Paperback,7.35
+Malala Yousafzai,I Am Malala,Memoir,272,2013,Orion Children's Books,English,Kindle,4.49
+Malala Yousafzai,We Are Displaced: My Journey and Stories from Refugee Girls Around the World,Memoir,224,2021,W&N,English,Paperback,8.99
+Malala Yousafzai,We Are Displaced: My Journey and Stories from Refugee Girls Around the World,Memoir,224,2021,W&N,English,Kindle,4.99
+Malala Yousafzai,Malala: My Story of Standing Up for Girls' Rights,Memoir,176,2018,Wren & Rook,English,Paperback,4.68
+Malala Yousafzai,Malala: My Story of Standing Up for Girls' Rights,Memoir,176,2018,Wren & Rook,English,Kindle,3.49
+Malala Yousafzai,Malala's Magic Pencil,Memoir,48,2019,Puffin,English,Paperback,7.35
+Malala Yousafzai,Malala's Magic Pencil,Memoir,48,2019,Puffin,English,Kindle,5.99
+Malala Yousafzai,Malala: Activist for Girls' Education,Memoir,48,2014,Charlesbridge Publishing,English,Paperback,10.99
+Malala Yousafzai,Malala a Brave Girl from Pakistan/Iqbal a Brave Boy from Pakistan: Two Stories of Bravery,Memoir,40,2014,Beach Lane Books,English,Paperback,16.67
+Nelson Mandela,"Long Walk to Freedom",Memoir,784,1995,Abacus,English,Paperback,6.99
+Nelson Mandela,"Long Walk to Freedom",Memoir,784,1995,Abacus,English,Kindle,6.99
+Nelson Mandela,"Conversations with Myself",Memoir,480,2011,Pan,English,Paperback,14.23
+Nelson Mandela,"Conversations with Myself",Memoir,480,2011,Pan,English,Kindle,8.99
+Nelson Mandela,"Nelson Mandela: The Authorized Comic Book",Memoir,207,2009,W. W. Norton & Company,English,Paperback,30.91
+Nelson Mandela,"The Struggle Is My Life",Memoir,281,1991,Pathfinder Books Ltd,English,Paperback,3.19
+Elie Wiesel,"Night",Memoir,144,2008,Penguin,English,Paperback,6.93
+Elie Wiesel,"Night",Memoir,144,2008,Penguin,English,Kindle,4.99
+Elie Wiesel,"Dawn",Memoir,81,2006,Hill and Wang,English,Paperback,13.38
+Elie Wiesel,"Day",Memoir,128,2006,Hill and Wang,English,Paperback,1.21
+Elie Wiesel,"The Accident",Memoir,128,1991,Hill and Wang,English,Paperback,11.79
+Elie Wiesel,"A Beggar in Jerusalem",Memoir,224,1997,Schocken Books,English,Paperback,7.38
+Elie Wiesel,"And the Sea Is Never Full: Memoirs,1969-",Memoir,448,2000,Knopf Doubleday Publishing Group,English,Paperback,2.11
+Elie Wiesel,"Open Heart",Memoir,79,2012,Knopf,English,Paperback,8.75
+P.D. James,"The Children of Men",Dystopian,352,2018,Faber & Faber,English,Paperback,9.19
+P.D. James,"The Children of Men",Dystopian,292,2018,Faber & Faber,English,Kindle,5.99
+P.D. James,"Death Comes to Pemberley",Dystopian,306,2011,Faber & Faber,English,Kindle,1.79
+P.D. James,"Death Comes to Pemberley",Dystopian,306,2011,Faber & Faber,English,Paperback,8.02
+P.D. James,"An Unsuitable Job for a Woman",Dystopian,288,2019,Faber & Faber,English,Paperback,9.05
+P.D. James,"An Unsuitable Job for a Woman",Dystopian,288,2019,Faber & Faber,English,Kindle,6.49
+P.D. James,"The Murder Room",Dystopian,560,2020,Faber & Faber,English,Paperback,9.19
+P.D. James,"The Murder Room",Dystopian,560,2020,Faber & Faber,English,Kindle,1.99
+P.D. James,"A Mind to Murder",Dystopian,288,2020,Faber & Faber,English,Paperback,7.65
+P.D. James,"A Mind to Murder",Dystopian,288,2020,Faber & Faber,English,Kindle,5.99
+P.D. James,"Cover Her Face",Dystopian,288,2019,Faber & Faber,English,Paperback,9.05
+P.D. James,"Cover Her Face",Dystopian,288,2019,Faber & Faber,English,Kindle,5.99
+P.D. James,"A Taste for Death",Dystopian,656,2019,Faber & Faber,English,Paperback,9.19
+P.D. James,"A Taste for Death",Dystopian,656,2019,Faber & Faber,English,Kindle,6.49
+Veronica Roth,"Divergent",Dystopian,544,2021,HarperCollinsChildren’sBooks,English,Paperback,8.27
+Veronica Roth,"Divergent",Dystopian,362,2011,HarperCollinsChildren’sBooks,English,Kindle,2.99
+Veronica Roth,"Insurgent",Dystopian,545,2012,HarperCollinsChildren’sBooks,English,Kindle,3.99
+Veronica Roth,"Insurgent",Dystopian,576,2013,HarperCollinsChildren’sBooks,English,Paperback,7.35
+Veronica Roth,"Allegiant",Dystopian,544,2015,HarperCollinsChildren’sBooks,English,Paperback,7.35
+Veronica Roth,"Allegiant",Dystopian,418,2013,HarperCollinsChildren’sBooks,English,Kindle,3.99
+Veronica Roth,"Four: A Divergent Collection",Dystopian,304,2015,HarperCollinsChildren’sBooks,English,Paperback,5.59
+Veronica Roth,"Four: A Divergent Collection",Dystopian,216,2014,HarperCollinsChildren’sBooks,English,Kindle,4.59
+Veronica Roth,"Carve the Mark",Dystopian,512,2017,HarperCollinsChildren’sBooks,English,Paperback,7.81
+Veronica Roth,"Carve the Mark",Dystopian,481,2017,HarperCollinsChildren’sBooks,English,Kindle,3.49
+Veronica Roth,"The Fates Divide",Dystopian,480,2018,HarperCollinsChildren’sBooks,English,Paperback,8.27
+Veronica Roth,"The Fates Divide",Dystopian,469,2018,HarperCollinsChildren’sBooks,English,Kindle,2.99
+Veronica Roth,"Chosen Ones",Dystopian,434,2020,Hodderscape,English,Kindle,4.99
+Veronica Roth,"Chosen Ones",Dystopian,434,2021,Hodder Paperbacks,English,Paperback,8.27
+Ferdinand de Saussure,Course in General Linguistics",Linguistics,236,1995,Duckworth,English,Paperback,19.99
+Ferdinand de Saussure,Course in General Linguistics",Linguistics,236,1995,Duckworth,English,Kindle,11.36
+William Shakespeare,Romeo and Juliet",Drama,320,2011,William Collins,English,Paperback,2.99
+William Shakespeare,Romeo and Juliet",Drama,97,2019,Grapevine,English,Kindle,0.24
+William Shakespeare,"Hamlet",Drama,128,2000,Dover Publications Inc,English,Paperback,2.99
+William Shakespeare,"Hamlet",Drama,169,2019,DGrapevine,English,Kindle,0.24
+William Shakespeare,"Macbeth",Drama,128,1992,Wordsworth Editions,English,Paperback,3.99
+William Shakespeare,"Macbeth",Drama,130,2013,Wordsworth Editions,English,Kindle,0.99
+William Shakespeare,"Othello",Drama,192,2011,William Collins,English,Paperback,2.99
+William Shakespeare,"Othello",Drama,165,2023,Global Publishers,English,Kindle,0.00
+William Shakespeare,"A Midsummer Night's Dream",Drama,400,2017,The Arden Shakespeare,English,Paperback,8.99
+William Shakespeare,"A Midsummer Night's Dream",Drama,400,2017,The Arden Shakespeare,English,Kindle,5.42
+William Shakespeare,"Julius Caesar",Drama,272,2015,Penguin Classics,English,Paperback,6.99
+William Shakespeare,"Julius Caesar",Drama,272,2005,Penguin Classics,English,Kindle,3.99
+William Shakespeare,"The Tempest",Drama,85,2012,Dover Publications,English,Kindle,0.49
+Anton Chekhov,"The Cherry Orchard",Drama,50,2019,Digireads,English,Paperback,5.99
+Anton Chekhov,"The Cherry Orchard",Drama,60,2019,Digireads,English,Paperback,2.25
+Anton Chekhov,"The Seagull",Drama,68,2014,CreateSpace Independent,English,Paperback,5.99
+Anton Chekhov,"The Seagull",Drama,56,2019,E-BOOKARAMA,English,Kindle,0.49
+Anton Chekhov,"Uncle Vanya",Drama,60,2014,CreateSpace Independent,English,Paperback,2.99
+Anton Chekhov,"Uncle Vanya",Drama,49,2012,CreateSpace Independent,English,Kindle,0.00
+Anton Chekhov,"Three Sisters",Drama,78,2014,CreateSpace Independent,English,Paperback,2.99
+Anton Chekhov,"Three Sisters",Drama,82,2009,Digireads,English,Paperback,2.49
+Anton Chekhov,"The Lady with the Dog and Other Stories",Drama,352,2002,Penguin Classics,English,Paperback,9.19
+Anton Chekhov,"The Lady with the Dog and Other Stories",Drama,352,2002,Penguin,English,Paperback,2.99
+Isaac Asimov,Foundation",Science Fiction,240,2016,HARPER COLLINS,English,Paperback,6.19
+Isaac Asimov,Foundation",Science Fiction,226,2018,HarperVoyager,English,Kindle,4.99
+Isaac Asimov,"I Robot",Science Fiction,256,2018,HarperVoyager,English,Paperback,5.35
+Isaac Asimov,"I Robot",Science Fiction,258,2018,HarperVoyager,English,Kindle,5.49
+Isaac Asimov,"The Caves of Steel",Science Fiction,270,2018,HarperVoyager,English,Paperback,5.35
+Isaac Asimov,"The Caves of Steel",Science Fiction,208,2023,HarperVoyager,English,Kindle,3.99
+Isaac Asimov,"Foundation and Empire",Science Fiction,240,2016,HarperVoyager,English,Paperback,5.35
+Isaac Asimov,"Foundation and Empire",Science Fiction,241,2018,HarperVoyager,English,Kindle,2.99
+Isaac Asimov,"The Gods Themselves",Science Fiction,288,2013,Gateway,English,Paperback,4.11
+Isaac Asimov,"Pebble in the Sky",Science Fiction,224,2019,HarperVoyager,English,Paperback,7.69
+Isaac Asimov,"Pebble in the Sky",Science Fiction,222,2023,HarperVoyager,English,Kindle,3.99
+Isaac Asimov,"Second Foundation",Science Fiction,240,2016,HARPER COLLINS,English,Paperback,7.69
+Isaac Asimov,"Second Foundation",Science Fiction,274,2018,HarperVoyager,English,Kindle,2.99
+Philip K. Dick,"Do Androids Dream of Electric Sheep?",Science Fiction,208,2010,Gateway,English,Paperback,4.49
+Philip K. Dick,"Do Androids Dream of Electric Sheep?",Science Fiction,208,2010,Gateway,English,Kindle,4.99
+Philip K. Dick,"A Scanner Darkly",Science Fiction,224,2012,W&N,English,Paperback,7.78
+Philip K. Dick,"A Scanner Darkly",Science Fiction,307,2014,Gateway,English,Kindle,2.99
+Philip K. Dick,"Ubik",Science Fiction,224,2000,Gateway,English,Paperback,5.53
+Philip K. Dick,"Ubik",Science Fiction,224,2010,Gateway,English,Kindle,4.99
+Philip K. Dick,"The Man in the High Castle",Science Fiction,256,2001,Penguin,English,Paperback,4.49
+Philip K. Dick,"The Man in the High Castle",Science Fiction,274,2001,Penguin,English,Kindle,4.49
+Philip K. Dick,"Valis",Science Fiction,272,2000,Gateway,English,Paperback,6.29
+Philip K. Dick,"Valis",Science Fiction,272,2010,Gateway,English,Kindle,3.99
+Philip K. Dick,"Flow My Tears,the Policeman Said",Science Fiction,256,2012,W&N,English,Paperback,6.54
+Philip K. Dick,"Flow My Tears,the Policeman Said",Science Fiction,256,2010,Gateway,English,Kindle,2.99
+Philip K. Dick,"Time Out of Joint",Science Fiction,224,2003,Gateway,English,Paperback,5.99
+Philip K. Dick,"Time Out of Joint",Science Fiction,224,2010,Gateway,English,Kindle,2.99
+Edgar Allan Poe,"The Tell-Tale Heart",Horror,26,2016,CreateSpace Independent,English,Paperback,2.99
+Edgar Allan Poe,"The Tell-Tale Heart",Horror,70,2015,CreateSpace Independent,English,Kindle,0.99
+Edgar Allan Poe,"The Fall of the House of Usher",Horror,544,2003,Penguin Classics,English,Paperback,5.99
+Edgar Allan Poe,"The Fall of the House of Usher",Horror,544,2003,Penguin Classics,English,Kindle,0.49
+Edgar Allan Poe,"The Masque of the Red Death",Horror,128,2022,Penguim Classics,English,Paperback,6.99
+Edgar Allan Poe,"The Masque of the Red Death",Horror,62,2018,WS,English,Kindle,0.49
+Edgar Allan Poe,"The Pit and the Pendulum",Horror,256,2009,Penguim Classics,English,Paperback,9.05
+Edgar Allan Poe,"The Pit and the Pendulum",Horror,239,2009,Penguim,English,Kindle,1.99
+Edgar Allan Poe,"The Raven",Horror,78,2022,Independent,English,Paperback,6.35
+Edgar Allan Poe,"The Raven",Horror,83,2022,Independent,English,Kindle,1.46
+Edgar Allan Poe,"The Cask of Amontillado",Horror,24,2013,CreateSpace Independent,English,Paperback,2.99
+Edgar Allan Poe,"The Cask of Amontillado",Horror,25,2013,HarperPerennial Classics,English,Kindle,0.75
+Edgar Allan Poe,"Ligeia",Horror,33,2017,Independent,English,Paperback,3.99
+Evelyn Waugh,"Scoop",Satire,320,2000,Penguim Classics,English,Paperback,9.19
+Evelyn Waugh,"Scoop",Satire,320,2012,Penguim,English,Kindle,4.99
+Evelyn Waugh,"A Handful of Dust",Satire,240,2018,Penguim Classics,English,Paperback,7.09
+Evelyn Waugh,"A Handful of Dust",Satire,242,2022,Avarang Books,English,Kindle,0.81
+Evelyn Waugh,"Decline and Fall",Satire,304,2001,Penguim Classics,English,Paperback,6.99
+Evelyn Waugh,"Decline and Fall",Satire,137,2012,Penguim,English,Kindle,4.99
+Evelyn Waugh,"Vile Bodies",Satire,288,2000,Penguim Classics,English,Paperback,9.19
+Evelyn Waugh,"Vile Bodies",Satire,338,2012,Penguim,English,Kindle,4.99
+Evelyn Waugh,"Brideshead Revisited",Satire,326,2000,Penguim Classics,English,Paperback,9.19
+Evelyn Waugh,"Brideshead Revisited",Satire,439,2020,Aegitas,English,Kindle,0.81
+Evelyn Waugh",Black Mischief",Satire,304,2011,Penguim Classics,English,Paperback,9.19
+Evelyn Waugh",Black Mischief",Satire,233,2012,Penguim,English,Kindle,1.99
+Evelyn Waugh",Put Out More Flags",Satire,304,2000,Penguim Classics,English,Paperback,9.19
+Evelyn Waugh",Put Out More Flags",Satire,316,2012,Penguim Classics,English,Paperback,5.99
+Jonathan Swift,"Gulliver's Travels",Satire,133,2016,Independent Publishing,English,Paperback,5.10
+Jonathan Swift,"Gulliver's Travels",Satire,303,2022,E-BOOKARAMA,English,Kindle,0.49
+Jonathan Swift,"A Modest Proposal",Satire,24,2018,Independent Publishing,English,Paperback,2.75
+Jonathan Swift,"A Modest Proposal",Satire,14,2016,Independent Publishing,English,Kindle,0.99
+Jonathan Swift,"The Battle of the Books",Satire,84,2017,Independent Publishing,English,Paperback,3.77
+Jonathan Swift,"The Battle of the Books",Satire,171,2017,Otbebookpublishing,English,Kindle,1.46
+Jonathan Swift,"A Tale of a Tub",Satire,102,2022,Blurb,English,Paperback,3.29
+Jonathan Swift,"A Tale of a Tub",Satire,105,2011,Blurb,English,Kindle,2.99
+Jonathan Swift,"The Intelligencer",Satire,230,2010,Nabu Press,English,Paperback,39.41
+Jonathan Swift,"A Complete Collection of Genteel and Ingenious Conversation",Satire,326,2020,HardPress Publishing,English,Paperback,13.95
+Jonathan Swift,"A Complete Collection of Genteel and Ingenious Conversation",Satire,241,2018,HardPress Publishing,English,Kindle,6.36
+Steven Pinker,"The Stuff of Thought",Linguistics,512,2008,Penguim,English,Paperback,10.95
+Steven Pinker,"The Stuff of Thought",Linguistics,524,2008,Penguim,English,Kindle,4.49
+Steven Pinker,"The Language Instinct",Linguistics,528,2015,Penguim,English,Paperback,11.95
+Steven Pinker,"The Language Instinct",Linguistics,546,2003,Penguim,English,Kindle,6.99
+Steven Pinker,"Words and Rules: The Ingredients of Language",Linguistics,410,2001,W&N,English,Paperback,10.94
+Steven Pinker,"Words and Rules: The Ingredients of Language",Linguistics,507,2014,W&N,English,Kindle,3.99
+Steven Pinker,"How the Mind Works",Linguistics,663,2003,Penguim,English,Kindle,7.99
+Steven Pinker,"The Sense of Style",Linguistics,368,2015,Penguim,English,Paperback,10.11
+Steven Pinker,"The Sense of Style",Linguistics,348,2014,Penguim,English,Kindle,5.49
+Steven Pinker,"Enlightenment Now",Linguistics,576,2018,Penguim,English,Paperback,13.18
+Steven Pinker,"Enlightenment Now",Linguistics,525,2018,Penguim,English,Paperback,9.99
+Steven Pinker,"The Blank Slate",Linguistics,549,2003,Penguim,English,Paperback,11.95
+Steven Pinker,"The Blank Slate",Linguistics,560,2003,Penguim,English,Kindle,9.49
+Friedrich Nietzsche,"Thus Spoke Zarathustra",Philosophy,200,2019,Penguim Classics,English,Paperback,5.24
+Friedrich Nietzsche,"Thus Spoke Zarathustra",Philosophy,524,2019,Grapevine,English,Kindle,0.24
+Friedrich Nietzsche,"Beyond Good and Evil",Philosophy,240,2003,Penguim Classics,English,Paperback,6.99
+Friedrich Nietzsche,"Beyond Good and Evil",Philosophy,123,2014,Penguim Classics,English,Kindle,0.99
+Friedrich Nietzsche,"The Birth of Tragedy",Philosophy,96,2000,Dover Publications Inc,English,Paperback,2.99
+Friedrich Nietzsche,"The Birth of Tragedy",Philosophy,143,2022,Grapevine India,English,Kindle,0.24
+Friedrich Nietzsche,"Ecce Homo",Philosophy,122,2018,Independent Publishing,English,Paperback,8.43
+Friedrich Nietzsche,"Ecce Homo",Philosophy,160,2022,Grapevine India,English,Kindle,0.38
+Friedrich Nietzsche,"The Will to Power",Philosophy,192,2019,Dover Publications Inc,English,Paperback,8.10
+Friedrich Nietzsche,"The Will to Power",Philosophy,473,2022,Grapevine India,English,Kindle,0.25
+Friedrich Nietzsche,"On the Genealogy of Morality",Philosophy,224,1998,Hackett Publishing Co Inc,English,Paperback,16.99
+Friedrich Nietzsche,"On the Genealogy of Morality",Philosophy,224,1998,Hackett Publishing Co Inc,English,Kindle,12.19
+Friedrich Nietzsche,"Human All Too Human",Philosophy,275,1996,Bison Books,English,Paperback,15.48
+Friedrich Nietzsche,"Human All Too Human",Philosophy,115,2017,Bison Books,English,Kindle,0.99
+Marshall McLuhan,"Understanding Media: The Extensions of Man",Media Studies,389,1994,MIT Press,English,Paperback,26.99
+Marshall McLuhan,"Understanding Media: The Extensions of Man",Media Studies,402,2013,Gingko Press,English,Kindle,16.99
+Marshall McLuhan,"The Gutenberg Galaxy: The Making of Typographic Man",Media Studies,294,1962,University of Toronto Press,English,Paperback,20.82
+Marshall McLuhan,"War and Peace in the Global Village",Media Studies,151,1997,Wired Books,English,Paperback,26.00
+Marshall McLuhan,"The Medium is the Massage: An Inventory of Effects",Media Studies,160,2008,Penguim Classics,English,Paperback,7.99
+Marshall McLuhan,"The Mechanical Bride: Folklore of Industrial Man",Media Studies,157,1967,Beacon Press,English,Paperback,22.00
+Marshall McLuhan,"The Mechanical Bride: Folklore of Industrial Man",Media Studies,342,2021,Beacon Press,English,Kindle,2.16
+Marshall McLuhan,"Through the Vanishing Point: Space in Poetry and Painting",Media Studies,267,1969,Harper & Row,English,Paperback,13.86
+Marshall McLuhan,"The Global Village: Transformations in World Life and Media in the 21st Century",Media Studies,240,1992,Oxford University Press,English,Paperback,13.00
+Marshall McLuhan,"The Global Village: Transformations in World Life and Media in the 21st Century",Media Studies,240,1989,Oxford University Press,English,Kindle,10.04
+Charles Dickens,"Great Expectations",Novel,432,1992,Wordsworth Editions,English,Paperback,3.99
+Charles Dickens,"Great Expectations",Novel,540,2023,Global Publishers,English,Kindle,0.72
+Charles Dickens,"A Tale of Two Cities",Novel,464,2010,William Collins,English,Paperback,2.99
+Charles Dickens,"A Tale of Two Cities",Novel,413,2018,Grapevine India,English,Kindle,0.16
+Charles Dickens,"Oliver Twist",Novel,528,2010,William Collins,English,Paperback,0.70
+Charles Dickens,"David Copperfield",Novel,1024,2004,Penguin Classics,English,Paperback,9.19
+Charles Dickens,"David Copperfield",Novel,1083,2023,Global Publishers,English,Kindle,0.75
+Charles Dickens,"Bleak House",Novel,1036,2017,Dover Publications Inc,English,Paperback,6.49
+Charles Dickens,"Bleak House",Novel,789,2023,NTMC,English,Kindle,2.99
+Charles Dickens,"A Christmas Carol",Novella,70,2016,Independent Publishing,English,Paperback,6.30
+Charles Dickens,"A Christmas Carol",Novella,120,2016,Independent Publishing,English,Kindle,0.49
+Charles Dickens,"Hard Times",Novel,384,2012,William Collins,English,Paperback,2.99
+Charles Dickens,"Hard Times",Novel,342,2019,Grapevine,English,Kindle,0.25
+
