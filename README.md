@@ -19,4 +19,4 @@ Model Evaluation:
 The evaluation of specific regression models is done. Metrics such as MAE and MSE are presented for each model.
 
 Principal Component Analysis (PCA):
-Principal Component Analysis (PCA) is explored as a means to enhance model performance.
+PCA is explored as a means to enhance model performance.
